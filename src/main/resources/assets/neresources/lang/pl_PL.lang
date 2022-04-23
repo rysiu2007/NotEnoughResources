@@ -1,1 +1,118 @@
+ner.config.itemsPerColumn.title=Przedmioty na kolumnę
+ner.config.itemsPerColumn.description=Zmienia ilość przedmiotów na kolumnę w widoku dropów z mobów i lochów NEI
+ner.config.itemsPerRow.title=Przedmioty na wiersz
+ner.config.itemsPerRow.description=Zmienia ilość przedmiotów na wiersz w widoku dropów z mobów i lochów NEI
+ner.config.cycleTime.title=Zmień czas
+ner.config.cycleTime.description=Pokaż czas przed zmianą w widoku NEI
+ner.config.extraRange.title=Dodatkowy zasięg
+ner.config.extraRange.description=Zmienia dodatkowy poziomY wyświetlany na wykresie w widoku NEI
+ner.config.dimNames.title=Użyj nazw wymiarów
+ner.config.dimNames.description=Użyj nazw wymiarów zamiast ich indeksu
+ner.config.echantsBlacklist.title=Czarna lista zaklęć
+ner.config.echantsBlacklist.description=Wyklucz zaklęcia z widoku zaklęć NEI
 
+#Usage: ner.page pageNumber ner.of lastPage
+ner.page=Strona
+ner.of=z
+#Usage X ner.stacks
+#X will either be "[max]" or "[min] - [max]"
+ner.stacks=%s Stacków
+
+ner.lightLevel=Poziom oświetlenia
+ner.any=Żaden
+ner.dim.no=Żadnych prawidłowych miejsc spawnu
+ner.not=Nie
+
+#Dungeon View
+ner.dungeon.title=Skrzynia loszna
+ner.dungeon.mineshaftCorridor=Opuszczona kopalnia
+ner.dungeon.pyramidDesertyChest=Pustynna świątynia
+ner.dungeon.pyramidJungleChest=Mineshaft
+ner.dungeon.pyramidJungleDispenser=Świątynia dżunglowa
+ner.dungeon.strongholdCorridor=Korytarz twierdzy
+ner.dungeon.strongholdLibrary=Biblioteka twierdzy
+ner.dungeon.strongholdCrossing=Skrzyżowanie w twierdzy
+ner.dungeon.villageBlacksmith=Kowal
+ner.dungeon.bonusChest=Bonus
+ner.dungeon.dungeonChest=Loch
+
+#Enchantments View
+ner.enchantments.title=Zaklęcia
+
+#Plant View
+ner.plant.title=Zbiory
+
+#Ore View
+ner.ore.title=Generacja rud
+ner.ore.bestY=Najlepszy poziomY
+ner.ore.silkTouch=Potrzebny jedwabny dotyk
+ner.ore.biomes=Występuje w biomach
+ner.ore.dimensions=Występuje w wymiarach
+
+#Mob View
+ner.mob.title=Mob upuszcza
+ner.mob.biome=Występowianie: Rusz tu myszką
+ner.mob.exp=Upuszczone doświadczenie
+
+#Advanced Plant View
+ner.advPlant.title=Zaawansowane zbiory
+
+#Conditionals - when translating retain '%s' as this lets the modifier be properly inserted into the string
+ner.magmaCream.text=Małe i duże kosteczki magmy
+ner.slimeBall.text=Małe szlamy
+ner.rareDrop.text=Rzadki drop
+
+ner.slimeScale.text=Zmienia się z rozmiarem szlamu
+ner.kingSlime.text=Tylko u ogromnych szlamów
+ner.beheading.text=Dekapitacja zwiększa szansę
+ner.randomAspect.text=Losowy aspekt
+ner.equipmentDrop.text=Upuszczony ekwipunek
+
+ner.burning.text=Kiedy się pali
+ner.notBurning.text=Kiedy się nie pali
+ner.wet.text=Kiedy mokry
+ner.notWet.text=Kiedy suchy
+ner.hasPotion.text=Kiedy posiada efekt %s
+ner.hasNoPotion.text=Kiedy nie posiada efektu %s
+ner.beyond.text=Dalej niż %sm od spawnu
+ner.nearer.text=Bliżej niż %sm od spawnu
+ner.raining.text=Kiedy pada
+ner.dry.text=Kiedy nie pada
+ner.thundering.text=Kiedy grzmi
+ner.notThundering.text=Kiedy nie grzmi
+ner.moonPhase.text=Podczas %s księżyca
+ner.notMoonPhase.text=Nie podczas %s księżyca
+ner.pastTime.text=Czas po %s
+ner.beforeTime.text=Czas przed %s
+ner.pastWorldTime.text=Czas świata po %s
+ner.beforeWorldTime.text=Czas świata przed %s
+ner.pastWorldDifficulty.text=Po lokalnym poziomie trudności %s
+ner.beforeWorldDifficulty.text=Przed lokalnym poziomie trudności %s
+ner.gameDifficulty.text=Trudność %s
+ner.notGameDifficulty.text=Trudność nie %s
+ner.inDimension.text=W wymiarze %s
+ner.notInDimension.text=Nie w wymiarze %s
+ner.inBiome.text=W biomie %s
+ner.notInBiome.text=Nie w biomie %s
+ner.onBlock.text=Na %s
+ner.notOnBlock.text=Nie na %s
+ner.below.text=Poniżej Y %s
+ner.above.text=Powyżej Y %s
+ner.playerOnline.text=Gdy gracz %s jest online
+ner.playerOffline.text=Gdy gracz %s jest offline
+ner.playerKill.text=Zabity przez gracza
+ner.notPlayerKill.text=Nie zabity przez gracza
+ner.aboveLooting.text=Grabież powyżej poziomu %s
+ner.belowLooting.text=Grabież poniżej poziomu %s
+ner.killedBy.text=Gdy zabity przez %s
+ner.notKilledBy.text=Gdy nie zabity przez %s
+
+#Moon Phases
+ner.full.moon=pełni
+ner.waning_gibbous.moon=zanikania garbatego
+ner.third_quarter.moon=trzeciej kwadry
+ner.waning_crescent.moon=balsamicznego
+ner.new.moon=nów
+ner.waxing_crescent.moon=przybywania sierbowego
+ner.first_quarter.moon=pierwszej kwadry
+ner.waxing_gibbous.moon=zanikania garbatego
